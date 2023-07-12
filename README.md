@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/naci-baran-7177181a9)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naci.baran) 
 
 
